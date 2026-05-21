@@ -1,4 +1,3 @@
-Port Scanning project
 # SecureScan GUI
 **SecureScan GUI** is an Educational Vulnerability Scanner with a Graphical Interface. It is designed to help users learn the basics of port scanning, web vulnerability assessment, and security analysis in a safe, controlled environment.
 ⚠️ **LEGAL NOTICE**: This tool is for EDUCATIONAL PURPOSES only. Unauthorized scanning of computer systems is ILLEGAL. By using this tool, you agree to only scan systems you OWN or have EXPLICIT WRITTEN PERMISSION to test.
