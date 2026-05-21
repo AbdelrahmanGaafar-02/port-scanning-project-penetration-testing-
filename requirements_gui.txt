@@ -1,0 +1,6 @@
+requests==2.31.0
+# tkinter is included with Python, no installation needed
+# No other dependencies required for GUI version
+requests==2.31.0 
+colorama==0.4.6 
+python-dotenv==1.0.0 
